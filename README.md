@@ -38,7 +38,7 @@ It will ask you password
 
 Example:
 ```
-root@machine:~# ./backdoor.sh ruut bleedz33 /bin/bash
+root@machine:~# ./backdoorV2.sh ruut bleedz33 /bin/bash
 root@machine:~# su user
 user@machine:~$ whoami
 user
